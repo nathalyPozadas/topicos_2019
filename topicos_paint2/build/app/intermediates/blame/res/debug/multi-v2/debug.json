@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\flutedsad\\topicos_paint2\\build\\app\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "outputFile": "D:\\flutedsad\\topicos_paint2 - copia\\build\\app\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
             "map": [
                 {
-                    "source": "D:\\flutedsad\\topicos_paint2\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "D:\\flutedsad\\topicos_paint2 - copia\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
